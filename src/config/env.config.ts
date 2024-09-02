@@ -3,7 +3,7 @@ import dotenvExpand from "dotenv-expand";
 import path from "path";
 
 const envFiles = {
-  production: ".env.production",
+  production: ".env",
   development: ".env.local",
 };
 
